@@ -1,0 +1,3 @@
+# Videos
+
+- [Common Linux/Unix Shell Commands](https://d3c33hcgiwev3.cloudfront.net/6LdlQxHsQTG3ZUMR7PExFA.processed/full/720p/index.mp4?Expires=1707696000&Signature=Qzo5JTqWXwRUeoD22end8GgWO6hAl3tDZbZlsVrthPUjDnlCCwZSTOfHOZB~FRLa8qOraPJZLH6IYlD14wRLlE36ciyqgypH8LwmDsfGSST8xJe4IMdfUZLxeuwdX1Js72ZvarSRwx2l54PSzl4AbSp5Cxf1JuqHWkxrU3EG3Eo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
