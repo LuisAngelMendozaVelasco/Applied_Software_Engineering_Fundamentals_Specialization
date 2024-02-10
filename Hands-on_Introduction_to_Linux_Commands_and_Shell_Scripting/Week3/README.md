@@ -1,0 +1,3 @@
+# Introduction to Shell Scripting
+
+In this module, you will learn the basics of shell scripting. You will learn what a script is and when to use scripts. You will be able to describe the shebang interpreter directive and create and run a simple shell script. Additionally, this module will teach you how to use pipes and filters and set shell and environment variables. By the end of this module, you will also be able to list features of Bash shell scripting and use crontab to schedule cron jobs, understand the cron syntax, and view and remove cron jobs.

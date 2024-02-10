@@ -1,0 +1,3 @@
+# Final Project and Final Exam
+
+In this module, you will complete a practice project in which you create an automated Extract, Transform, Load (ETL) process to extract daily weather forecasts and observed weather data. You will schedule this process to run automatically at a set time daily and learn how to create a script to measure forecast accuracy. In your peer-graded final project, you will create a scheduled backup script. Finally, you will demonstrate the knowledge you've gained by taking a final graded exam.
