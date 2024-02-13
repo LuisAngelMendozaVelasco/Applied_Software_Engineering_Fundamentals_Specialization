@@ -13,3 +13,33 @@ This module introduces you to the basics of programming. In the first lesson, yo
 - Describe the purpose and use of identifiers and containers.
 - Describe the purpose and use of functions and objects.
 - Write and run simple Python code that uses variables, constants, arrays, loops, and conditional logic.
+
+## Programming Languages and Organization
+
+- [Video - Interpreted and Compiled Programming Languages](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/kK7GG/interpreted-and-compiled-programming-languages)
+
+- [Video - Comparing Compiled and Interpreted Programming Languages](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/AiUeN/comparing-compiled-and-interpreted-programming-languages)
+
+- [Video - Query and Assembly Programming Languages](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/yo43u/query-and-assembly-programming-languages)
+
+- [Video - Understanding Code Organization Methods](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/M28Wx/understanding-code-organization-methods)
+
+- [Lab - Hello World in 11 Programming Languages](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/Hands-on-lab-MultiLanguages.md.html)
+
+- [Video - Insiders' Viewpoint: Types of Languages](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/IrpT6/insiders-viewpoint-types-of-languages)
+
+- [Reading - Activity: Programming Logic and Organizational Methods](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0151EN-SkillsNetwork/labs/Module_3/Showcase_programming_logic_and_organizational_method/index.html?origin=www.coursera.org)
+
+## Programming Logic and Concepts
+
+- [Video - Branching and Looping Programming Logic](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/okO5Y/branching-and-looping-programming-logic)
+
+- [Video - Introduction to Programming Concepts Part 1](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/fWAe2/introduction-to-programming-concepts-part-1)
+
+- [Video - Introduction to Programming Concepts Part 2](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/4vGgj/introduction-to-programming-concepts-part-2)
+
+- [Lab - Programming Fundamentals with Python](./Labs/Programming_Fundamentals_With_Python_Notebook.ipynb)
+
+## Module Summary and Graded Quiz
+
+- [Reading - Summary & Highlights](https://www.coursera.org/learn/introduction-to-software-engineering/supplement/xMLwl/summary-highlights)

@@ -9,3 +9,19 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 - Describe basic git concepts and the purpose of repositories.
 - Create a GitHub account and repository.
 - Add/edit files in your repo, and commit changes using the GitHub web interface.
+
+## Git and GitHub Fundamentals
+
+- [Reading - Course Introduction](https://www.coursera.org/learn/getting-started-with-git-and-github/supplement/dDyaD/course-introduction)
+
+- [Video - Overview of Git/GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/5PZSe/overview-of-git-github)
+
+- [Video - Introduction to GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/Vtjgd/introduction-to-github)
+
+- [Video - GitHub Repositories](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/NPMOC/github-repositories)
+
+- [Video - GitHub - Getting Started](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/fe489/github-getting-started)
+
+- [Lab - GitHub Sign Up & Create Repo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/GitHubLabs/GitHub1_Getting_Started.md.html?origin=www.coursera.org)
+
+- [Reading - Module Summary](https://www.coursera.org/learn/getting-started-with-git-and-github/supplement/IGsZk/module-summary)
