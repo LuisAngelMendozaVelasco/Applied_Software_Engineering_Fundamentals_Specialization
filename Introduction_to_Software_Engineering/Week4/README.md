@@ -12,3 +12,31 @@ In this module, you will learn about the foundations of enterprise software deve
 - Differentiate between production and pre-production environments.
 - Describe components commonly required in a production environment.
 - Recognize diagrams of architectural patterns based on their descriptions.
+
+## Software Architecture and Design
+
+- [Video - Introduction to Software Architecture](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/Hbs90/introduction-to-software-architecture)
+
+- [Video - Software Design and Modeling](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/7ivJf/software-design-and-modeling)
+
+- [Video - Object-Oriented Analysis and Design](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/amp8x/object-oriented-analysis-and-design)
+
+- [Video - Insiders' Viewpoint: Importance of Design and Software Architecture](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/ER2CA/insiders-viewpoint-importance-of-design-and-software-architecture)
+
+- [Reading - Activity: Create an Architectural Diagram](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module%204/Choose_Architecture/index.html)
+
+## Software Architecture Patterns and Deployment Topologies
+
+- [Video - Approaches to Application Architecture](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/RATdN/approaches-to-application-architecture)
+
+- [Video - Architectural Patterns in Software](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/cNdAw/architectural-patterns-in-software)
+
+- [Video - Application Deployment Environments](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/SYn6B/application-deployment-environments)
+
+- [Video - Production Deployment Components](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/w68SQ/production-deployment-components)
+
+- [Video - Insiders' Viewpoint: Deployment Architecture](https://www.coursera.org/learn/introduction-to-software-engineering/lecture/4N3Gf/insiders-viewpoint-deployment-architecture)
+
+## Module Summary and Graded Quiz
+
+- [Reading - Summary & Highlights](https://www.coursera.org/learn/introduction-to-software-engineering/supplement/ccjPe/summary-highlights)

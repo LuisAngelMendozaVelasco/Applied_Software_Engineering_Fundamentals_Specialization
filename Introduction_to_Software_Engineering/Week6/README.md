@@ -6,3 +6,13 @@ This is the final module of the course which contains the final assessment and f
 
 - Demonstrate your mastery of the skills and knowledge you acquired while completing this course.
 - Analyze a software engineering job listing of your choice, using the skills and knowledge you've gained while taking this course.
+
+## Course Glossary
+
+- [Reading - Software Engineering Glossary](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/readings/Module%206/Software_Engineering_Glossary.md.html)
+
+## Course Wrap Up
+
+- [Reading - Congrats & Next Steps](https://www.coursera.org/learn/introduction-to-software-engineering/supplement/2CdD8/congrats-next-steps)
+
+- [Reading - Thanks from the Course Team](https://www.coursera.org/learn/introduction-to-software-engineering/supplement/F2njn/thanks-from-the-course-team)
