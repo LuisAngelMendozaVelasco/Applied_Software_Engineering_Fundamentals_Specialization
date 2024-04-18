@@ -4,7 +4,6 @@ def square(number):
     """
     return number ** 2
 
-
 def double(number):
     """
     This function returns twice the value of a given number
